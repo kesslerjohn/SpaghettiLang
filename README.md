@@ -2,7 +2,7 @@
 
 I will be jotting down some ideas here and maybe even writing code!!
 
-### Features (an ad hoc list):
+### Features (an ad hoc and mostly aesthetic list):
 
 [ ] compiler called with "boil <filename>"
   
@@ -15,3 +15,5 @@ I will be jotting down some ideas here and maybe even writing code!!
 [ ] classes declared with 'dish' 
   
 [ ] methods declared with 'recipe'  
+
+[ ] boolean values 'Ture' and 'Flase'
